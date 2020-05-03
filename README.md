@@ -13,7 +13,7 @@ Lifecycle -> install
 ```
 Open "target" folder in terminal or 
 ```
-cd tarrget
+cd target
 ```
 Run warfile
 ```
